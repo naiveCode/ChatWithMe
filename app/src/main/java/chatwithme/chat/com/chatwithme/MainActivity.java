@@ -73,7 +73,7 @@ public class MainActivity extends FragmentActivity implements
 
     // Client ID for a web server that will receive the auth code and exchange it for a
     // refresh token if offline access is requested.
-    private static final String WEB_CLIENT_ID = "996781570310-6pk3vv5eglmeaijqmaggmkvfr9ihgc7e.apps.googleusercontent.com";
+    private static final String WEB_CLIENT_ID = "YOUR_WEB_CLIENTID";
 
     // Base URL for your token exchange server, no trailing slash.
     private static final String SERVER_BASE_URL = "http://localhost ";
