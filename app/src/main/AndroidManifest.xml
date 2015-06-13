@@ -42,7 +42,7 @@
                 <!--
                   IMPORTANT: Change "com.parse.tutorials.pushnotifications" to match your app's package name.
                 -->
-                <category android:name="chatwithme.mayuresh.com.chatwithme" />
+                <category android:name="chatwithme.chat.com.chatwithme" />
             </intent-filter>
         </receiver>
         <receiver android:name="com.parse.ParsePushBroadcastReceiver" android:exported="false">
